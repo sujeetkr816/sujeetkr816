@@ -53,7 +53,7 @@ product-based company.
      <a href="https://www.linkedin.com/in/sujeet-kumar816/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="https://github.com/sujeetkr816" target="_blank">
+      <a href="https://sujeetkr816.github.io/Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
       <a title="sujeet-kumar" href="mailto:https://mail.google.com/mail/u/0/#inbox" target="_blank">
