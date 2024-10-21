@@ -34,7 +34,7 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://https://drive.google.com/file/d/19ilv-9B7PIOUbfQ9pv5hQ13eLDuJXIlp/view?usp=drive_link" target="_blan" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1lvZ7_Ij4rYCX-hyLPYc3Pi-sUfHiUlzt/view?usp=sharing" target="_blan" >Resume</a>
       
       - 💻 Know more about me <a href="https://sujeetkr816.github.io/Portfolio/" target="_blank"  >Portfolio</a>
       
